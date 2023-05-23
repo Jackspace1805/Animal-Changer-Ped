@@ -1,7 +1,7 @@
 # play_as_ped
 
 Author 'Jackspace'
-Description 'A script, for the server ~blue~EUPHORIA CITY~blue~.'
+Description 'This is a Script for FiveM ESX.'
 
 1. Drag this zip folder into the resource folder. (FiveM Server/resource/here)
 
